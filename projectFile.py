@@ -1,4 +1,8 @@
 name = input("Enter your name: ")
+
+year = int(input("Enter the current year: "))
+
+
 age = int(input("Enter your age: "))
 age_in_5_years = age + 5
 age_in_10_years = age + 10
